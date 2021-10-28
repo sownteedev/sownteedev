@@ -1,20 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 ## Contact With Me
-<p align="left"> 
-  &emsp;
-  <a href="mailto:nguyenthanhson.sowntee@gmail.com" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.facebook.com/Sowntee/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.twitter.com/Sowntee/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white">
-   </a>
-</p>
-
 <p align="center">
 <a href="mailto:nguyenthanhson.sowntee@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
