@@ -11,7 +11,7 @@
 <br>
  <br>
   <div>
-  <img alt="Sowntee" height="200em" src="https://github.com/Sowntee/Sowntee/blob/master/Sowntese.jpg" align="right"/>
+  <img alt="Sowntee" height="200em" src="https://github.com/Sowntee/Sowntee/blob/master/Sowntee.png" align="right"/>
     
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
