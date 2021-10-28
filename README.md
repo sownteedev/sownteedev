@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-### Social & Contact
+### Social & Contact 📩�
 
 <p align="center">
 <a href="mailto:nguyenthanhson.sowntee@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -56,7 +56,7 @@
 
 ### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a align="center" href="https://github.com/Sowntee" >
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowntee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowntee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sowntee&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
