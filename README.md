@@ -14,7 +14,7 @@
   
 - 🔭 My Name is Nguyen Thanh Son ( Tễ )
 
-- 🌱 I’m currently learning **Full Stacks**
+- 🌱 I’m currently learning **Full Stacks** and I will become a FullStack Developer
 
 - 👨‍💻 All of my projects are available at [Sowntee.github.io](Sowntee.github.io)
 
