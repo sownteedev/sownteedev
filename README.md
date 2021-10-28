@@ -8,7 +8,6 @@
 <a href="https://instagram.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://discord.gg/gEnsbSyBfe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-// <a href="https://steamcommunity.com/id/Sowntee"><img src="https://img.shields.io/badge/Sownteexwho-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
   
 ### ⚫️ Programming Languages
 
