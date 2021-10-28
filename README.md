@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h3 align="center">Hey there, I'm <a href="https://sowntee.github.io/NguyenThanhSon">Nguyen Thanh Son</a> - aka Sowntee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
+<br>
 <p align="center">
 <a href="mailto:nguyenthanhson.sowntee@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/Sowntee"><img src="https://img.shields.io/badge/-Nguyen Thanh Son-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
