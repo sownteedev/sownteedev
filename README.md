@@ -54,7 +54,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 <br/>
-### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+### Social & Contact <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a align="center" href="https://github.com/Sowntee" >
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowntee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sowntee&layout=compact&langs_count=8&theme=algolia"/>
