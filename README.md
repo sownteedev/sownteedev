@@ -18,7 +18,7 @@
 <a href="mailto:nguyenthanhson.sowntee@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/Sowntee"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.facebook.com/Sowntee"><img src="https://img.shields.io/badge/-Nguyen Thanh Son-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/Sowntee"><img src="https://img.shields.io/badge/-Nguyen Thanh Son-3b5998?style=for-the-badge&logo=twitter&logoColor=white/></a>
 </p>
 
 ### 👉 Programming languages
