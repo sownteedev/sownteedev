@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-## Contact With Me
+### Contact With Me
 <p align="center">
 <a href="mailto:nguyenthanhson.sowntee@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/Sowntee"><img src="https://img.shields.io/badge/-Nguyen Thanh Son-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -52,7 +52,8 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 <br/>
-## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+
+### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/Sowntee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowntee&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
 </a>
