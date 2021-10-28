@@ -59,7 +59,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowntee&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
 </a>
 <a href="https://github.com/Sowntee">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kennn-dev&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sowntee&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
 </a>
 
 ### Spotify Playing 🎧
