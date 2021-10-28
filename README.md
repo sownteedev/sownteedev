@@ -57,7 +57,7 @@
 ### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a align="center" href="https://github.com/Kennn-dev" >
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowntee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kenn-dev&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kennn-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 ### Spotify Playing 🎧
