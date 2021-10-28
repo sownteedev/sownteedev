@@ -9,6 +9,19 @@
 <a href="https://twitter.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://discord.gg/gEnsbSyBfe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   
+  <img alt="Sowntee" height="180em" src="https://www.facebook.com/photo/?fbid=380529127036830&set=a.101732781583134" align="right"/>
+  
+- 🔭 I’m currently working on [AI Interview Test](https://github.com/CodeTrophs/AI-Interview-Test)
+
+- 🌱 I’m currently learning **ML,DL,AI,Docker,Kubernetes**
+
+- 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
+
+- 📝 I regularly write articles on [blog.aryasoni.com](blog.aryasoni.com)
+
+- 💬 Ask me about **Javascript, Python, React.js, Node.js, ML, Debugging**
+
+- 📫 How to reach me **aryasoni98@gmail.com**
 ### ⚫️ Programming Languages
 
 <p align="left"> 
