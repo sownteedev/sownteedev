@@ -54,13 +54,12 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 <br/>
-
 ### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/Sowntee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowntee&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
 </a>
 <a href="https://github.com/Sowntee">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sowntee&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Sowntee's github stats" height="220px" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kennn-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 ### Spotify Playing 🎧
