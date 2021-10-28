@@ -1,10 +1,4 @@
-## Welton Felix
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:nguyenthanhson.sowntee@gmail.com)
-&emsp;
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/Sowntee/)
-&emsp;
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://www.twitter.com/Sowntee/)
-&emsp;
+## Contact With Me
 <p align="left"> 
   &emsp;
   <a href="mailto:nguyenthanhson.sowntee@gmail.com" target="_blank"> 
