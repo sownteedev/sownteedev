@@ -13,8 +13,10 @@
   <img alt="Sowntee" height="200em" src="https://github.com/Sowntee/Sowntee/blob/master/Sowntese.jpg" align="right"/>
   
 - 🔭 My Name is Nguyen Thanh Son ( Tễ )
+    
+- 💒 My countryside is NamDinh, Vietnam. I living in Hanoi
 
-- 🌱 I’m currently learning **Full Stacks** and I will become a FullStack Developer
+- 🌱 I’m currently learning **Full Stacks** and I will become a FullStacks Developer
 
 - 👨‍💻 All of my projects are available at [Sowntee.github.io](Sowntee.github.io)
 
