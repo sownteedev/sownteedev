@@ -10,21 +10,20 @@
 <a href="https://discord.gg/gEnsbSyBfe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br>
   <div>
-  <img alt="Sowntee" height="250em" src="https://github.com/Sowntee/Sowntee/blob/master/Sowntese.jpg" align="right"/>
+  <img alt="Sowntee" height="200em" src="https://github.com/Sowntee/Sowntee/blob/master/Sowntese.jpg" align="right"/>
   
-- 🔭 I’m currently working on [AI Interview Test](https://github.com/CodeTrophs/AI-Interview-Test)
+- 🔭 My Name is Nguyen Thanh Son ( Tễ )
 
-- 🌱 I’m currently learning **ML,DL,AI,Docker,Kubernetes**
+- 🌱 I’m currently learning **Full Stacks**
 
-- 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
+- 👨‍💻 All of my projects are available at [Sowntee.github.io](Sowntee.github.io)
 
-- 📝 I regularly write articles on [blog.aryasoni.com](blog.aryasoni.com)
+- 📝 I like Coding and Designing
 
-- 💬 Ask me about **Javascript, Python, React.js, Node.js, ML, Debugging**
-
-- 📫 How to reach me **aryasoni98@gmail.com**
-### ⚫️ Programming Languages
+- 📫 How to reach me **nguyenthanhson.sowntee@gmail.com**
 </div>
+
+### ⚫️ Programming Languages
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> 
