@@ -12,10 +12,10 @@
  <br>
   <div>
   <img alt="Sowntee" height="200em" src="https://github.com/Sowntee/Sowntee/blob/master/Sowntese.jpg" align="right"/>
-  
-- 🔭 My Name is Nguyen Thanh Son ( Tễ )
     
-- 💒 My countryside is NamDinh, Vietnam. I living in Hanoi
+- 💒 My countryside is NamDinh, Vietnam. I'm living in Hanoi
+   
+- 🏦 I'm studying at 𝘝𝘕𝘜 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘯𝘥 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺, 𝘏𝘢 𝘕𝘰𝘪
 
 - 🌱 I’m currently learning **Full Stacks** and I will become a FullStacks Developer
 
