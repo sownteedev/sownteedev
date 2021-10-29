@@ -17,7 +17,7 @@
    
 - 🏦 I'm studying at 𝘝𝘕𝘜 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘯𝘥 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺, 𝘏𝘢 𝘕𝘰𝘪
 
-- 🌱 I’m currently learning **Full Stacks** and I'll become a FullStacks Developer
+- 🌱 I’m currently learning and I'll become a **FullStacks Developer**
 
 - 📝 I like Coding and Designing
    
