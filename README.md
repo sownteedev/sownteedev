@@ -48,8 +48,7 @@
   <a href="https://www.w3schools.com/react" target="_blank">  <a href="https://www.w3schools.com/react" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"></a>
   <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white">
   <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&logoColor=white">
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-<img alt="Sowntee" height="140em" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
+<img alt="Sowntee" height="150em" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
    
  ### ⚫️ Software & Tools
  
