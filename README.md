@@ -11,7 +11,7 @@
 <br>
  <br>
   <div>
-   <img alt="Sowntee" height="250px" Width="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
+   <img alt="Sowntee" height="250px" Width="200px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
     
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
@@ -26,7 +26,7 @@
 - 📫 How to reach me **nguyenthanhson.sowntee@gmail.com**
 </div>
 <div>
-    <img alt="Sowntee" height="100em" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
+    
 ### ⚫️ Programming Languages
 
 <p align="left"> 
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white">
   <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&logoColor=white">
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-
+<img alt="Sowntee" height="100em" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
  ### ⚫️ Software & Tools
  
 <p>
