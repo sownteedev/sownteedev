@@ -12,8 +12,6 @@
  <br>
   <div>
    <img alt="Sowntee" height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
-   
-   <img alt="Sowntee" height="200em" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"/>
     
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
@@ -27,7 +25,8 @@
 
 - 📫 How to reach me **nguyenthanhson.sowntee@gmail.com**
 </div>
-
+<div>
+    <img alt="Sowntee" height="200em" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
 ### ⚫️ Programming Languages
 
 <p align="left"> 
@@ -60,7 +59,7 @@
     <a href="#"><img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black"></a>
 </p>
-
+   </div>
 ### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a align="center" href="https://github.com/Sowntee" >
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowntee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left"/>
