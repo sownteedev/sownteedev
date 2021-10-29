@@ -66,7 +66,6 @@
     <a href="#"><img alt="Linux" src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black"></a>
 </p>
    </div>
- <br>
  
  -------------------
  
