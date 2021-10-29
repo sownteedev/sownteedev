@@ -11,7 +11,7 @@
 <br>
  <br>
   <div>
-   <img alt="Sowntee" height="400px" Width="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
+   <img alt="Sowntee" height="350px" Width="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
     
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
