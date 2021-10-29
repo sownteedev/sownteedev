@@ -42,7 +42,7 @@
   <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
- <img alt="Sowntee" height="160em" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
+ <img alt="Sowntee" height="200px" Width="300px" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
 </p>
 
 ### ⚫️ Frontend Development
