@@ -41,12 +41,13 @@
   <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a>   
   <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
+  <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"></a>
   <a href="https://www.w3schools.com/react" target="_blank">  <a href="https://www.w3schools.com/react" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
 </a>
   <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
   <a href="https://www.w3schools.com/nodejs" target="_blank"><img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&logoColor=white"></a>
 </p>
+ <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
 
  ### ⚫️ Software & Tools
  
