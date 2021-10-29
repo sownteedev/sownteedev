@@ -55,7 +55,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext&logoColor=white"></a>
     <a href="#"><img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Ubuntu" src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black"></a>
 </p>
 
 ### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
