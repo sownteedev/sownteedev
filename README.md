@@ -11,7 +11,7 @@
 <br>
  <br>
   <div>
-   <img alt="Sowntee" height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
+   <img alt="Sowntee" height="400px" Width="300px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
     
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
@@ -65,11 +65,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sowntee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kennn-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-### Spotify Playing 🎧
-
-
-   
+  
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
