@@ -11,7 +11,8 @@
 <br>
  <br>
   <div>
-   <a alt="Sowntee" height="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
+   <img alt="Sowntee" height="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
+   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/d06xrmq7881id2956cuzzklo1)
     
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
