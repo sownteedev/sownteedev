@@ -66,7 +66,7 @@
 </a>
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&redirect=true)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=d06xrmq7881id2956cuzzklo1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
