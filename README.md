@@ -24,6 +24,8 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Sowntee?tab=repositories">Sowntee.github.io</a>
 
 - 📫 How to reach me **nguyenthanhson.sowntee@gmail.com**
+   
+- 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">About Me</a>
 </div>
 <div>
     
