@@ -13,7 +13,7 @@
  -------------------
  
   <div>
-   <img alt="Sowntee" height="340px" Width="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
+   <img alt="Sowntee" height="340px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
     
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
@@ -42,7 +42,7 @@
   <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
   <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
- <img alt="Sowntee" height="150px" Width="280px" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
+ <img alt="Sowntee" height="150px" Width="270px" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
 </p>
 
 ### ⚫️ Frontend Development
