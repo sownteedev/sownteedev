@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **nguyenthanhson.sowntee@gmail.com**
    
-- 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">About Me</a>
+- 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">My Website</a>
 </div>
 <div>
     
