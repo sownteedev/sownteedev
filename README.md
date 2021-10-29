@@ -11,7 +11,7 @@
 <br>
  <br>
   <div>
-   <img alt="Sowntee" height="250em" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
+   <img alt="Sowntee" height="400em" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
    
    <img alt="Sowntee" height="200em" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"/>
     
