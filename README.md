@@ -21,7 +21,7 @@
 
 - 📝 I like Coding and Designing
    
-- 👨‍💻 All of my projects are available at **Sowntee.github.io**(Sowntee.github.io)
+- 👨‍💻 All of my projects are available at **Sowntee.github.io**
 
 - 📫 How to reach me **nguyenthanhson.sowntee@gmail.com**
 </div>
