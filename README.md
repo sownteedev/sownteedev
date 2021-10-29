@@ -9,7 +9,6 @@
 <a href="https://twitter.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://discordapp.com/users/745732774027198554"><img src="https://img.shields.io/badge/@Sowntee-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br>
- <br>
  
  -------------------
  
@@ -30,6 +29,9 @@
    
 - 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">My Website</a>
 </div>
+
+-------------------
+
 <div>
     
 ### ⚫️ Programming Languages
