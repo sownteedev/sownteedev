@@ -10,6 +10,9 @@
 <a href="https://discordapp.com/users/745732774027198554"><img src="https://img.shields.io/badge/@Sowntee-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br>
  <br>
+ 
+ -------------------
+ 
   <div>
    <img alt="Sowntee" height="340px" Width="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right"/>
     
