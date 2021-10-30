@@ -17,8 +17,7 @@
   <div>
    <img alt="Sowntee" height="345px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
    
-<h1>👨🏻‍💻 About Me</h1>
-   <br>
+<h2>👨🏻‍💻 About Me</h2>
    
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
