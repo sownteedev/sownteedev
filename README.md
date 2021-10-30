@@ -33,7 +33,7 @@
    
 - 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">My Website</a>
    
-   ### 👁️‍🗨️ Visitor count <img src="https://profile-counter.glitch.me/Sowntee/count.svg" />
+   ### 👁️‍🗨️ Visitor count <img height="20px" Width="100px" src="https://profile-counter.glitch.me/Sowntee/count.svg">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -43,12 +43,12 @@
 ### ⚫️ Programming Languages
 
 <p align="left"> 
-  <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> 
-  <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-  <img alt="Sowntee" height="170px" Width="270px" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right"/>
+  <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+  <img alt="Sowntee" height="170px" Width="270px" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right">
 </p>
 
 ### ⚫️ Frontend Development
@@ -64,12 +64,12 @@
  ### ⚫️ Software & Tools
  
 <p>
-    <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <img alt="Terminal" src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=4D4D4D&style=flat-square"></a>
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <img alt="Sublime" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-    <img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
+    <img alt="Terminal" src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=4D4D4D&style=flat-square">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img alt="Sublime" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important">
+    <img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white">
 </p>
    </div>
  
