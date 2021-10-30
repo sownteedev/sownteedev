@@ -9,9 +9,11 @@
 <a href="https://twitter.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://discordapp.com/users/745732774027198554"><img src="https://img.shields.io/badge/@Sowntee-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br>
+<br>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  
+ <br>
   <div>
    <img alt="Sowntee" height="345px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
     
@@ -30,7 +32,7 @@
 - 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">My Website</a>
 </div>
 
--------------------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <div>
     
