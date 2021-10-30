@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm <a href="https://sowntee.github.io/NguyenThanhSon">Nguyen Thanh Son</a> - <i>Sowntee Nguyen</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <br>
 <p align="center">
-<a href="mailto:nguyenthanhson.sowntee@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:sownteenguyen@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/Sowntee"><img src="https://img.shields.io/badge/-Nguyen Thanh Son-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://instagram.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/Sowntee"><img src="https://img.shields.io/badge/-@Sowntee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -25,7 +25,7 @@
    
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Sowntee?tab=repositories">Sowntee.github.io</a>
 
-- 📫 How to reach me **nguyenthanhson.sowntee@gmail.com**
+- 📫 How to reach me **sownteenguyen@gmail.com**
    
 - 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">My Website</a>
 </div>
