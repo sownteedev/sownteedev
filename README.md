@@ -61,7 +61,7 @@
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Sublime Text" src="http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext&logoColor=white"></a>
+    <a href="#"><img alt="Sublime" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
     <a href="#"><img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black"></a>
 </p>
