@@ -64,7 +64,6 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <img alt="Sublime" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
     <img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <img alt="Linux" src="http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black"></a>
 </p>
    </div>
  
