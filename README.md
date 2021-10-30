@@ -16,7 +16,8 @@
  <br>
   <div>
    <img alt="Sowntee" height="345px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
-    
+    <br>
+   <br>
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
 - 🏦 I'm studying at 𝘝𝘕𝘜 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘯𝘥 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺, 𝘏𝘢 𝘕𝘰𝘪
@@ -69,7 +70,7 @@
 </p>
    </div>
  
- -------------------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  
 ### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
  
