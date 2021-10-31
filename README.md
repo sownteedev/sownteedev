@@ -15,7 +15,7 @@
  
  <br>
   <div>
-   <img alt="Sowntee" height="345px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
+   <img alt="Sowntee" height="360px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
    
 <h2>👨🏻‍💻 About Me</h2>
    
@@ -33,7 +33,7 @@
    
 - 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">My Website</a>
    
-   ### 👁️‍🗨️ Visitor count:    <img height="25px" Width="270px" src="https://profile-counter.glitch.me/Sowntee/count.svg">
+  ### 👁️‍🗨️ Visitor count:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/Sowntee/count.svg">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
