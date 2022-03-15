@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning and I'll become a **FullStacks Developer**
    
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Sowntee?tab=repositories">Sowntee.github.io</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/SownteeNguyen?tab=repositories">SownteeNguyen.github.io</a>
 
 - 📫 How to reach me : **sownteenguyen@gmail.com**
    
