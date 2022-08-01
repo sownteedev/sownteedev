@@ -1,10 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h3 align="center">Hey there, I'm <a href="https://sowntee.github.io/NguyenThanhSon">Nguyen Thanh Son</a> - <i>Sowntee Nguyen</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://sownteenguyen.github.io/NguyenThanhSon">Nguyen Thanh Son</a> - <i>Sowntee Nguyen</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <br>
 <p align="center">
 <a href="mailto:sownteenguyen@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/Sowntee"><img src="https://img.shields.io/badge/-Nguyen Thanh Son-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/SownteeNguyen"><img src="https://img.shields.io/badge/-Nguyen Thanh Son-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://instagram.com/SownteeNguyen"><img src="https://img.shields.io/badge/-@Sowntee-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/SownteeNguyen"><img src="https://img.shields.io/badge/-@Sowntee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://discordapp.com/users/745732774027198554"><img src="https://img.shields.io/badge/@Sowntee-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -21,7 +21,7 @@
    
 - 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
    
-- 🏦 I'm studying at 𝘝𝘕𝘜 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺 𝘰𝘧 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘯𝘥 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺, 𝘏𝘢 𝘕𝘰𝘪
+- 🏦 I'm studying at 𝘗𝘰𝘴𝘵𝘴 𝘢𝘯𝘥 𝘛𝘦𝘭𝘦𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘦 𝘰𝘧 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘗𝘛𝘐𝘛, 𝘏𝘢 𝘕𝘰𝘪
    
 - 📝 I like Coding, Designing and Listening to music chill in free time
 
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me : **sownteenguyen@gmail.com**
    
-- 🔎 You can see all my information in <a href="https://sowntee.github.io/NguyenThanhSon">My Website</a>
+- 🔎 You can see all my information in <a href="https://sownteenguyen.github.io/NguyenThanhSon">My Website</a>
    
   ### 👁️‍🗨️ Visitor count:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/Sowntee/count.svg">
 </div>
