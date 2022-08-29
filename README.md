@@ -31,7 +31,7 @@
 
 - 📫 How to reach me : **sownteenguyen@gmail.com**
    
-- 🔎 You can see all my information in <a href="https://sownteenguyen.github.io/nguyenthanhson">My Website</a>
+- 🔎 You can see all my information in <a href="https://sownteenguyen.github.io/NguyenThanhSon">My Website</a>
    
   ### 👁️‍🗨️ Visitor count:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/Sowntee/count.svg">
 </div>
