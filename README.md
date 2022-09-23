@@ -69,7 +69,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Sublime" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important">
     <img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white">
-    <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+    <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white">
 </p>
    </div>
  
