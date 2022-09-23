@@ -19,7 +19,7 @@
    
 <h2>👨🏻‍💻 About Me</h2>
    
-- 💒 My countryside is Nam Dinh, Vietnam and i'm living in Hanoi
+- 💒 My countryside is Nam Dinh, Vietnam and i'm currently living in Hanoi
    
 - 🏦 I'm studying at 𝘗𝘰𝘴𝘵𝘴 𝘢𝘯𝘥 𝘛𝘦𝘭𝘦𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘦 𝘰𝘧 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 𝘗𝘛𝘐𝘛, 𝘏𝘢 𝘕𝘰𝘪
    
