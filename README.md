@@ -47,6 +47,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+  | Neovim             | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)                                     | `![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)`                                     |
   <img alt="Sowntee" height="170px" Width="270px" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" align="right">
 </p>
 
