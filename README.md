@@ -4,9 +4,9 @@
 <br>
 <p align="center">
 <a href="mailto:sownteenguyen@gmail.com"><img src="https://img.shields.io/badge/-SOWNTEENGUYEN@-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sownteenguyen"><img src="https://img.shields.io/badge/@SownteeNguyen-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/SownteeNguyen"><img src="https://img.shields.io/badge/-Nguyen Thanh Son-3b5998?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://instagram.com/SownteeNguyen"><img src="https://img.shields.io/badge/-@SownteeNguyen-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sownteenguyen"><img src="https://img.shields.io/badge/@SownteeNguyen-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discordapp.com/users/745732774027198554"><img src="https://img.shields.io/badge/@Sowntee-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br>
 <br>
