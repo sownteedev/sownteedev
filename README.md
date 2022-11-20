@@ -44,6 +44,7 @@
 ### ⚫️ Programming Languages
 
 <p align="left"> 
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
