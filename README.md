@@ -26,7 +26,7 @@
    
 - 📝 I like Coding, Designing and Listening to music chill in free time
 
-- 🌱 I’m currently learning to NeoVim Developer and I'll become a **FullStacks Developer**
+- 🌱 I’m currently NeoVim Developer and I'll become a **FullStacks Developer**
    
 - 👨‍💻 All of my projects are available at <a href="https://github.com/SownteeNguyen?tab=repositories">SownteeNguyen.github.io</a>
 
