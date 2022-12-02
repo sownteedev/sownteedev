@@ -59,7 +59,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white">
   <img alt="React JS" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
-  [comment]: # (<img alt="Vue JS" src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white">)
+  <!--<img alt="Vue JS" src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white">-->
   <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&logoColor=white">
   
  ### ⚫️ Software & Tools
