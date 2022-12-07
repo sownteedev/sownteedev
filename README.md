@@ -22,11 +22,11 @@
    
 - 💒 My countryside is Nam Dinh, Vietnam and i'm currently living in Hanoi
    
-- 🏦 I'm studying at 𝘗𝘰𝘴𝘵𝘴 𝘢𝘯𝘥 𝘛𝘦𝘭𝘦𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘦 𝘰𝘧 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 - 𝘗𝘛𝘐𝘛
+- 🏦 I'm studying at **𝘗𝘰𝘴𝘵𝘴 𝘢𝘯𝘥 𝘛𝘦𝘭𝘦𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘦 𝘰𝘧 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 - 𝘗𝘛𝘐𝘛**
    
 - 📝 I like Coding, Designing and Listening to music chill in free time
 
-- 🌱 I’m currently NeoVim Developer and I'll become a **FullStacks Developer**
+- 🌱 I’m currently **NeoVim Developer** and I'll become a **FullStacks Developer**
    
 - 👨‍💻 All of my projects are available at <a href="https://github.com/SownteeNguyen?tab=repositories">SownteeNguyen.github.io</a>
 
