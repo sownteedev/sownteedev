@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently **NeoVim Developer** and ...
    
-- 👨‍💻 All of my projects are available at <a href="https://github.com/SownteeNguyen?tab=repositories">SownteeNguyen.github.io</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/sownteedev?tab=repositories">sownteedev.github.io</a>
 
 - 📫 How to reach me : **sownteenguyen@gmail.com**
    
@@ -68,8 +68,6 @@
     <img alt="Terminal" src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=4D4D4D&style=flat-square">
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
     <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&logo=neovim&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Sublime" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important">
     <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
     <img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-FE7A16?logo=stack-overflow&logoColor=white">
 </p>
