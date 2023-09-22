@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h3 align="center">Hey there, I'm <a href="https://sownteenguyen.github.io/NguyenThanhSon">Nguyen Thanh Son</a> - <i>@SownteeNguyen</i>
+<h3 align="center">Hey there, I'm <a href="https://sownteenguyen.github.io/NguyenThanhSon">Nguyen Thanh Son</a> - <i>@SownteeNguyen</i> </h3>
 <br>
 <p align="center">
 <a href="mailto:sownteenguyen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
