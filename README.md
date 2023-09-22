@@ -19,7 +19,7 @@
    <img alt="Sowntee" height="360px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
    
 <h2>👨🏻‍💻 About Me</h2>
-   
+   <br>
 - 💒 My countryside is Nam Dinh, Vietnam and i'm currently living in Hanoi
   
 - 🏦 I'm studying at 𝘗𝘰𝘴𝘵𝘴 𝘢𝘯𝘥 𝘛𝘦𝘭𝘦𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘦 𝘰𝘧 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺 - 𝘗𝘛𝘐𝘛
